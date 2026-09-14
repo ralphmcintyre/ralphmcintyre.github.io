@@ -36,6 +36,8 @@ Carlisle, PA
 -   Audited and analyzed Google Ads performance metrics while curating and deploying high-converting ad assets.
 -   Edited short-form video and promotional media content using Adobe Premiere Pro to drive brand recognition across digital channels.
 
+___
+
 **Zones LLC**
 
 Auburn, WA (Remote)
@@ -50,6 +52,8 @@ Auburn, WA (Remote)
 -   Programmed dynamic front-end utilities for real-time SVG barcode and QR code rendering based on incoming JSON payloads and business rules.
 -   Participated actively in daily Agile stand-ups, sprint estimation, backlog prioritization, and feature velocity tracking using Jira.
 -   Led technical workshops for the internal IT division, authoring technical documentation and training engineering teams on newly deployed modules.
+
+___
 
 **andculture**
 
@@ -66,6 +70,8 @@ Harrisburg, PA
 -   Authored detailed design specifications, system documentation, and code comments to facilitate seamless handoffs and onboarding.
 -   Collaborated in cross-functional Agile Scrum teams, presenting live software sprint demos to client stakeholders and assisting in technical requirements gathering.
 
+___
+
 **Tex Visions**
 
 Carlisle, PA
@@ -78,6 +84,8 @@ Carlisle, PA
 -   Architected relational database schemas (tables, primary/foreign keys, indexing) and structured high-efficiency SQL queries for reporting and warehouse operations.
 -   Implemented client-side logic and core math/rendering calculations for interactive, web-based custom product design software.
 -   Partnered directly with department heads and operational stakeholders from concept to deployment to gather requirements and deliver high-impact internal solutions.
+
+___
 
 **Noventri**
 
